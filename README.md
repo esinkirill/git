@@ -1,4 +1,5 @@
 # Learn git
+![alt text](https://github.com/blob/main/изображение_2023-10-02_131352174.png)
 
 This workshop has been made for students of [Founders and Coders](www.founderandcoders.com), and therefore assumes that you have completed lesson 1 of [Udacity's Git and GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (as part of the [precourse material](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/precourse))
 
