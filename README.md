@@ -1,19 +1,3 @@
-# Git Style Guide [RU]
-
-Переводы доступны на следующих языках:
-
-* [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
-* [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
-* [English](https://github.com/agis/git-style-guide)
-* [French](https://github.com/pierreroth64/git-style-guide)
-* [German](https://github.com/runjak/git-style-guide)
-* [Greek](https://github.com/grigoria/git-style-guide)
-* [Japanese](https://github.com/objectx/git-style-guide)
-* [Korean](https://github.com/ikaruce/git-style-guide)
-* [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
-* [Thai](https://github.com/zondezatera/git-style-guide)
-* [Turkish](https://github.com/CnytSntrk/git-style-guide)
-* [Ukrainian](https://github.com/denysdovhan/git-style-guide)
 
 # Содержание
 
